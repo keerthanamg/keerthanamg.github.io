@@ -1,11 +1,28 @@
-# Data Scientist
+# Aspiring Data/ Machine Learning Engineer
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills:
+
+- Programming Languages: Python, Java, C
+- Machine Learning:
+Supervised Learning (Regression, Classification)
+Unsupervised Learning (Clustering, Dimensionality Reduction)
+Reinforcement Learning
+- Data Science:
+Data Cleaning and Preprocessing
+Statistical Analysis
+Data Visualization
+- Tools and Technologies:
+ML Libraries (TensorFlow, Keras, Scikit-Learn)
+Data Analysis Libraries (Pandas, NumPy)
+Data Visualization Tools (Power BI)
+Frameworks:
+Databases (SQL)
+
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- Btech., Computer Science Engineering in Artificial Intelligence and Machine Learning | Dayananda Sagar University (_Sep 2020 - June 2024_)								       		
+- II PUC., PCMB	| Swargarani PU College (_May 2018 - June 2020_)	 			        		
+- SSLC., Science | G.S. English School (_May 2007 - Mar 2018_)
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
