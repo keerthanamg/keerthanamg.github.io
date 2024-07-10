@@ -52,14 +52,12 @@ A comprehensive analysis of the website’s performance, based on:
 • Channel Performance: Evaluating which channels are most effective.
 • Website Traffic Forecasting: Predicting future traffic patterns
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
 ### An Analytics Dashboard
 [Repository](https://github.com/keerthanamg/Analytics_dashboard)
 
 An analytics dashboard is a data visualization tool that aggregates, displays, and analyzes key performance indicators (KPIs), metrics, and other key data points related to a business, department, or specific process. 
 
-![Bike Study](/assets/img/bike_study.jpeg)
 
 
 ### Statistical Modelling
