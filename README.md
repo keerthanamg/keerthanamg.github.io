@@ -27,7 +27,7 @@ Databases (SQL)
 
 ## Work Experience
 **Artificial Intelligence Intern @ Pantech Solutions (_March 2024 - June 2024_)**
-- Worked with Computer Vision and Natural Language Processessing team and contributed to 5+ real-time projects.
+- Worked with Computer Vision and Natural Language Processing team and contributed to 5+ real-time projects.
 - This internship has been a tremendous learning experience, allowing me to apply theoretical knowledge to real-world scenarios. I honed my skills in data analysis, data preprocessing, feature engineering, model development, and collaborative problem-solving. 
 
 **Machine Learning Intern @ Take IT Smart OPC Pvt Ltd (_February 2024 - March 2024_)**
