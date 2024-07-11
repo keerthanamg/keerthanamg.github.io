@@ -1,6 +1,6 @@
 title: Keerthana MG
 #![logo](https://github.com/keerthanamg/keerthanamg/blob/main/LinkedIn%20%26%20Github%20Banner.png)
-#logo: /assests/img/headshot_circle.png
+logo: /assests/img/headshot_circle.png
 #description: text below image
-#show downloads: true
+show downloads: true
 theme: jekyll-theme-minimal
