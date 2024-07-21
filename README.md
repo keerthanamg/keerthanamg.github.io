@@ -43,7 +43,7 @@ Databases (SQL)
 - Led 3 premium projects with a team of 3 members
 
 ## Projects
-### Website Performance Analysis
+### 1. Website Performance Analysis
 A comprehensive analysis of the website’s performance, based on:
 • Session Analysis: Understanding traffic trends.
 • User Engagement Analysis: Gauging the depth of user interaction.
@@ -54,14 +54,14 @@ A comprehensive analysis of the website’s performance, based on:
 
 
 
-### An Analytics Dashboard
+### 2. An Analytics Dashboard
 [Repository](https://github.com/keerthanamg/Analytics_dashboard)
 
 An analytics dashboard is a data visualization tool that aggregates, displays, and analyzes key performance indicators (KPIs), metrics, and other key data points related to a business, department, or specific process. 
 
 
 
-### Statistical Modelling
+### 3. Statistical Modelling
 [Repository](https://github.com/keerthanamg/Statistical_modelling)
 
 Statistical modelling is a form of mathematical modelling that involves statistics to estimate or predict real-world behaviours, trends, and future outcomes based on data. It involves the construction of a statistical model, which is a formal representation of relationships between variables, typically expressed in the form of mathematical equations.
