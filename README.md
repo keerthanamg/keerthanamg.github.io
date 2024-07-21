@@ -45,7 +45,7 @@ Databases (SQL)
 ## Projects
 ### Website Performance Analysis
 [Repository](https://github.com/keerthanamg/Website_performance_analysis)
-!["Article"](https://medium.com/@keerthanamg/website-performance-analysis-2c796f06d048)
+[Article](https://medium.com/@keerthanamg/website-performance-analysis-2c796f06d048)
 A comprehensive analysis of the website’s performance, based on:
 • Session Analysis: Understanding traffic trends.
 • User Engagement Analysis: Gauging the depth of user interaction.
