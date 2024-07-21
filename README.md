@@ -65,5 +65,5 @@ An analytics dashboard is a data visualization tool that aggregates, displays, a
 ### 3. Statistical Modelling
 Statistical modelling is a form of mathematical modelling that involves statistics to estimate or predict real-world behaviours, trends, and future outcomes based on data. It involves the construction of a statistical model, which is a formal representation of relationships between variables, typically expressed in the form of mathematical equations.
 - [Repository](https://github.com/keerthanamg/Statistical_modelling)
-- [Article]()
+- [Article](https://keerthanamg.medium.com/statistical-modelling-15895efcbde5)
 
