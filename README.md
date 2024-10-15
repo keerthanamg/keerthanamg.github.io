@@ -23,9 +23,9 @@ Databases (SQL)
 
 
 ## Education
-- Btech., Computer Science Engineering in AI & ML | Dayananda Sagar University (_Sep 2020 - June 2024_)								       		
-- II PUC., PCMB	| Swargarani PU College (_May 2018 - June 2020_)	 			        		
-- SSLC., Science | G.S. English School (_May 2007 - Mar 2018_)
+- Btech -> Computer Science Engineering in AI & ML at Dayananda Sagar University (_Sep 2020 - June 2024_)								       		
+- II PUC -> PCMB at Swargarani PU College (_May 2018 - June 2020_)	 			        		
+- SSLC -> Science at G.S. English School (_May 2007 - Mar 2018_)
 
 ## Work Experience
 **Artificial Intelligence Intern @ Pantech Solutions (_March 2024 - June 2024_)**
