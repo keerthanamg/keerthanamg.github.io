@@ -18,7 +18,7 @@ Data Visualization
 ML Libraries (TensorFlow, Keras, Scikit-Learn)
 Data Analysis Libraries (Pandas, NumPy)
 Data Visualization Tools (Power BI)
-Frameworks:
+- Frameworks:
 Databases (SQL)
 
 
