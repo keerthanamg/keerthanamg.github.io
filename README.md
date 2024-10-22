@@ -1,5 +1,9 @@
-# Data-Driven Problem Solver
-Dynamic professional with over 7 months of diverse experience across data science, machine learning, and generative AI through hands-on internships and real-world projects. Proven ability to leverage data analysis, predictive modeling, and cutting-edge AI techniques to drive business insights and improve decision-making processes. Demonstrated success in optimizing algorithms, building scalable AI models, and delivering actionable insights from data to support strategic goals. Skilled in tackling complex business challenges with innovative data-driven solutions, committed to enhancing performance, accuracy, and ethical AI practices. Ready to contribute technical expertise and a results-oriented approach to a forward-thinking organization.
+# Prompt Engineer @ Zensar Technology 
+As a Prompt Engineer at Zensar Technologies, I focus on optimizing and advancing the performance of cutting-edge AI systems. My expertise lies in crafting and refining high-quality prompts for a variety of AI models, encompassing tasks such as conversational AI, content summarization, video descriptions, and image/video caption generation.
+
+I specialize in evaluating both human and AI-generated prompt-response pairs, providing in-depth feedback, and implementing improvements to enhance accuracy and relevance. With a focus on generative AI and natural language processing (NLP), I consistently work on improving response quality across multiple parameters, ensuring seamless AI-human interaction.
+
+My background in data science, machine learning, and Generative AI gives me a strong foundation in fine-tuning AI systems. I am passionate about pushing the boundaries of what AI can achieve, constantly refining models to deliver results that are both practical and innovative.
 
 #### Technical Skills:
 
