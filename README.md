@@ -1,4 +1,4 @@
-# Prompt Engineer @ Zensar Technology 
+# Prompt Engineer @ Zensar Technologies Ltd.
 As a Prompt Engineer at Zensar Technologies, I focus on optimizing and advancing the performance of cutting-edge AI systems. My expertise lies in crafting and refining high-quality prompts for a variety of AI models, encompassing tasks such as conversational AI, content summarization, video descriptions, and image/video caption generation.
 
 I specialize in evaluating both human and AI-generated prompt-response pairs, providing in-depth feedback, and implementing improvements to enhance accuracy and relevance. With a focus on generative AI and natural language processing (NLP), I consistently work on improving response quality across multiple parameters, ensuring seamless AI-human interaction.
