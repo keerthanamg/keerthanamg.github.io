@@ -4,6 +4,8 @@ As a Prompt Engineer at Zensar Technologies, I focus on optimizing and advancing
 I specialize in evaluating both human and AI-generated prompt-response pairs, providing in-depth feedback, and implementing improvements to enhance accuracy and relevance. With a focus on generative AI and natural language processing (NLP), I consistently work on improving response quality across multiple parameters, ensuring seamless AI-human interaction.
 
 My background in data science, machine learning, and Generative AI gives me a strong foundation in fine-tuning AI systems. I am passionate about pushing the boundaries of what AI can achieve, constantly refining models to deliver results that are both practical and innovative.
+![logo](https://github.com/keerthanamg/keerthanamg.github.io/blob/main/DALL%C2%B7E%202024-10-22%2020.33.57%20-%20A%20female%20prompt%20engineer%20working%20with%20cutting-edge%20AI%20systems.%20She%20is%20in%20a%20tech-savvy%20workspace%2C%20surrounded%20by%20screens%20showing%20AI-generated%20text%2C%20code.webp)
+
 
 #### Technical Skills:
 
@@ -32,6 +34,10 @@ Databases (SQL)
 - SSLC -> Science at G.S. English School (_May 2007 - Mar 2018_)
 
 ## Work Experience
+**Prompt Engineer @ Zensar Technologies Ltd. (_October 2024 - Present_)**
+- Currently working on a project with NVIDIA on advanced data-driven projects, focusing on prompt engineering, data annotation, image classification, and labeling to support machine learning models.
+- I contribute to refining AI systems by ensuring high-quality datasets and enhancing the accuracy of computer vision algorithms.
+
 **Artificial Intelligence Intern @ Pantech Solutions (_March 2024 - June 2024_)**
 - Collaborated with cross-functional teams on real-time AI projects.
 -  Gained hands-on experience in building and fine-tuning Gen AI models, ensuring high accuracy and performance across live applications.
