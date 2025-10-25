@@ -1,10 +1,9 @@
-# Prompt Engineer @ Zensar Technologies Ltd.
-As a Prompt Engineer at Zensar Technologies, I focus on optimizing and advancing the performance of cutting-edge AI systems. My expertise lies in crafting and refining high-quality prompts for a variety of AI models, encompassing tasks such as conversational AI, content summarization, video descriptions, and image/video caption generation.
+# Technology & Innovation Lead @ Navachethana Wellness Foundation.
+As the Technology & Innovation Lead at Navachethana Wellness Foundation, I focus on introducing digital and AI-driven solutions that strengthen our initiatives in health, education, women empowerment, and wellness.
 
-I specialize in evaluating both human and AI-generated prompt-response pairs, providing in-depth feedback, and implementing improvements to enhance accuracy and relevance. With a focus on generative AI and natural language processing (NLP), I consistently work on improving response quality across multiple parameters, ensuring seamless AI-human interaction.
+My role involves exploring how technology and innovation can enhance community outreach, measure program impact, and create awareness about sustainable living and mental well-being.
 
-My background in data science, machine learning, and Generative AI gives me a strong foundation in fine-tuning AI systems. I am passionate about pushing the boundaries of what AI can achieve, constantly refining models to deliver results that are both practical and innovative.
-![logo](https://github.com/keerthanamg/keerthanamg.github.io/blob/main/DALL%C2%B7E%202024-10-22%2020.33.57%20-%20A%20female%20prompt%20engineer%20working%20with%20cutting-edge%20AI%20systems.%20She%20is%20in%20a%20tech-savvy%20workspace%2C%20surrounded%20by%20screens%20showing%20AI-generated%20text%2C%20code.webp)
+Passionate about the intersection of AI and social good, I strive to make innovation more inclusive, empowering communities through knowledge, awareness, and technology.
 
 
 #### Technical Skills:
@@ -34,7 +33,13 @@ Databases (SQL)
 - SSLC -> Science at G.S. English School (_May 2007 - Mar 2018_)
 
 ## Work Experience
-**Prompt Engineer @ Zensar Technologies Ltd. (_October 2024 - Present_)**
+**Team lead @ Navachethana Wellness Foundation (_January 2025 - October 2025_)**
+- Led and coordinated cross-functional teams across the foundation’s key initiatives in health & wellness, education, women empowerment, and environment.
+- Managed project planning, volunteer engagement, and outreach activities to ensure smooth execution of welfare programs and measurable community impact.
+- Actively contributed innovative ideas to introduce digital tools and data-driven practices within the foundation’s operations, laying the foundation for future technology-driven initiatives.
+- This role helped me strengthen my leadership, collaboration, and problem-solving skills while understanding the power of innovation in social service.
+
+**Prompt Engineer @ Zensar Technologies Ltd. (_October 2024 - January 2025_)**
 - Currently working on a project with NVIDIA on advanced data-driven projects, focusing on prompt engineering, data annotation, image classification, and labeling to support machine learning models.
 - I contribute to refining AI systems by ensuring high-quality datasets and enhancing the accuracy of computer vision algorithms.
 
