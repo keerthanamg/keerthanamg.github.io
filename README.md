@@ -1,10 +1,8 @@
-# Technology & Innovation Lead @ Navachethana Wellness Foundation.
-As the Technology & Innovation Lead at Navachethana Wellness Foundation, I focus on introducing digital and AI-driven solutions that strengthen our initiatives in health, education, women empowerment, and wellness.
 
-My role involves exploring how technology and innovation can enhance community outreach, measure program impact, and create awareness about sustainable living and mental well-being.
-
-Passionate about the intersection of AI and social good, I strive to make innovation more inclusive, empowering communities through knowledge, awareness, and technology.
-
+Detail-oriented SQL Developer with one year of hands-on experience in designing, optimizing, and maintaining database
+solutions for enterprise applications. Strong exposure to Artificial Intelligence and Machine Learning through practical
+projects and internships, with a keen interest in building efficient, data-driven systems. Seeking to contribute technical
+expertise and a continuous learning mindset to a forward-looking technology team.
 
 #### Technical Skills:
 
@@ -33,15 +31,11 @@ Databases (SQL)
 - SSLC -> Science at G.S. English School (_May 2007 - Mar 2018_)
 
 ## Work Experience
-**Team lead @ Navachethana Wellness Foundation (_January 2025 - October 2025_)**
-- Led and coordinated cross-functional teams across the foundation’s key initiatives in health & wellness, education, women empowerment, and environment.
-- Managed project planning, volunteer engagement, and outreach activities to ensure smooth execution of welfare programs and measurable community impact.
-- Actively contributed innovative ideas to introduce digital tools and data-driven practices within the foundation’s operations, laying the foundation for future technology-driven initiatives.
-- This role helped me strengthen my leadership, collaboration, and problem-solving skills while understanding the power of innovation in social service.
 
-**Prompt Engineer @ Zensar Technologies Ltd. (_October 2024 - January 2025_)**
-- Currently working on a project with NVIDIA on advanced data-driven projects, focusing on prompt engineering, data annotation, image classification, and labeling to support machine learning models.
-- I contribute to refining AI systems by ensuring high-quality datasets and enhancing the accuracy of computer vision algorithms.
+**SQL Developer @ Accenture (_November 2024 - November 2025_)**
+- Designed, developed, and optimized SQL queries, stored procedures, and triggers to support business applications and reporting needs.
+- Collaborated with cross-functional teams to understand requirements and translate them into efficient database solutions.
+- Followed best practices for database security, documentation, and version control. 
 
 **Artificial Intelligence Intern @ Pantech Solutions (_March 2024 - June 2024_)**
 - Collaborated with cross-functional teams on real-time AI projects.
