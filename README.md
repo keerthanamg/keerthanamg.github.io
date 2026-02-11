@@ -1,8 +1,4 @@
 
-Detail-oriented SQL Developer with one year of hands-on experience in designing, optimizing, and maintaining database
-solutions for enterprise applications. Strong exposure to Artificial Intelligence and Machine Learning through practical
-projects and internships, with a keen interest in building efficient, data-driven systems. Seeking to contribute technical
-expertise and a continuous learning mindset to a forward-looking technology team.
 
 #### Technical Skills:
 
@@ -32,10 +28,7 @@ Databases (SQL)
 
 ## Work Experience
 
-**SQL Developer @ Accenture (_November 2024 - November 2025_)**
-- Designed, developed, and optimized SQL queries, stored procedures, and triggers to support business applications and reporting needs.
-- Collaborated with cross-functional teams to understand requirements and translate them into efficient database solutions.
-- Followed best practices for database security, documentation, and version control. 
+
 
 **Artificial Intelligence Intern @ Pantech Solutions (_March 2024 - June 2024_)**
 - Collaborated with cross-functional teams on real-time AI projects.
